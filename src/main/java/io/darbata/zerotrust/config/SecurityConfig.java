@@ -1,4 +1,4 @@
-package io.darbata.zerotrust;
+package io.darbata.zerotrust.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
